@@ -1,9 +1,0 @@
-.sidebar-container {
-    background-color: #121212;
-}
-
-@media (max-width: 360px) {
-    .sidebar-container {
-        flex: 1;
-    }
-}
