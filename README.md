@@ -1,1 +1,1 @@
-[!image](./assets/Leaderboard.jpg)
+![image](./assets/Leaderboard.png)
